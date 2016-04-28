@@ -1,0 +1,28 @@
+name: hoytdotcom
+favicon: null
+layout_spectrum: 0.4050944622140378
+typography_spectrum: 0.8561823032796383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8683366789482534
+  lightness: 0.25986675661988556
+  saturation: 0.46381994360126555
+  rhythmicContrast: 0.49642666801810265
+purpose: []
