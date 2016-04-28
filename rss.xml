@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[hoytdotcom]]></title>
-        <description><![CDATA[hoytdotcom]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Hoyt Steel : hoytdotcom]]></title>
+        <description><![CDATA[Hoyt Steel : hoytdotcom]]></description>
+        <link>http://hoytsteel.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 04:02:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 04:18:32 GMT</lastBuildDate>
+        <atom:link href="http://hoytsteel.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[7 Old School Rules To Build New School Wealth]]></title>
+            <description><![CDATA[<article><h1>7 Old School Rules To Build New School Wealth</h1><p>Oftentimes, major purchases can bring to light flaws in our financial stability. Whether it is coming up with a down payment for a house, paying for a car with cash, or saving for a family vacation, spending large sums of money can leave us utterly petrified or feeling quite content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa259054b860e7620d0fd3c83d0fe4b2d16fb471.jpg"></article>]]></description>
+            <link>http://launchyourfinances.us11.list-manage1.com/track/click?u=51d1564f9cc4c510efe09be36&amp;id=7554beb0f4&amp;e=08fea995d5</link>
+            <guid isPermaLink="false">4035fe3c-1946-4bbc-8e28-562dae020c9b</guid>
+            <pubDate>Thu, 28 Apr 2016 04:17:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0021d420-2459-47f7-9ad7-ead6f34d818c.jpg">]]></description>
-            <link>undefined7249c5ce-585f-43cf-811a-fcd3bbacdda9/index.html</link>
+            <link>http://hoytsteel.com/7249c5ce-585f-43cf-811a-fcd3bbacdda9/index.html</link>
             <guid isPermaLink="false">7249c5ce-585f-43cf-811a-fcd3bbacdda9</guid>
             <pubDate>Thu, 28 Apr 2016 04:02:17 GMT</pubDate>
         </item>
