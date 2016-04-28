@@ -1,7 +1,7 @@
 name: hoytdotcom
 favicon: null
-layout_spectrum: 0.4050944622140378
-typography_spectrum: 0.8561823032796383
+layout_spectrum: 0.09935
+typography_spectrum: 0.49675
 title: hoytdotcom
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#262331'
+    - '#aeaba2'
+    - '#475369'
+    - '#fedba6'
+    - '#b77235'
   brandStrength: 0.8683366789482534
   lightness: 0.25986675661988556
   saturation: 0.46381994360126555
