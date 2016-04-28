@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Port Townsend
-datePublished: '2016-04-28T03:52:49.214Z'
-dateModified: '2016-04-28T03:52:30.443Z'
+datePublished: '2016-04-28T03:53:17.038Z'
+dateModified: '2016-04-28T03:52:53.046Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-28-wanderlust.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-wanderlust.md
-published: true
 url: wanderlust/index.html
 _type: Article
 
